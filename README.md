@@ -29,7 +29,7 @@ Below are some tools and frameworks I work with:
 </p>
 
 
-## Beyond the Screen
+## ☕ Outside of Tech
 I enjoy watching films, making music, and playing video games—it helps me recharge and stay creative.
 
 ---
