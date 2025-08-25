@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Hi, I’m Amirhossein 👋</h1>
 </div>
+  <p><em>(Pronounced: /æˈmiːɾ hoːˈsejn/</em></p>
 
 I'm a 4th year Computer Engineering Bachelor's student at *Shahid Bahonar University of Kerman*. I'm enthusiastic about deep learning and machine learning, and currently I'm exploring and focusing on advanced areas such as language models, vision-language models, reasoning in AI, and image captioning systems.
+
 
 ## 💻 Technical Skills  
 
@@ -41,11 +43,12 @@ I'm a 4th year Computer Engineering Bachelor's student at *Shahid Bahonar Univer
 
 
 ## ☕ Outside of Tech
-I enjoy watching films, making music, and playing video games—it helps me recharge and stay creative.
+I enjoy watching films, producing music, exploring photography, and playing video games — activities that keep me inspired and creativity.
+
 
 ---
 
-## Contact
+## Contact Me
 Feel free to reach out:
 
 - **GitHub**: [github.com/AmirAAZ818](https://github.com/AmirAAZ818)  
