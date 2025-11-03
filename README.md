@@ -43,7 +43,7 @@ I'm a 4th year Computer Engineering Bachelor's student at *Shahid Bahonar Univer
 
 
 ## ☕ Outside of Tech
-I enjoy watching films, producing music, exploring photography, and playing video games — activities that keep me inspired and creativity.
+I enjoy watching films, producing music, exploring photography, and playing video games — activities that keep me inspired and creative.
 
 
 ---
