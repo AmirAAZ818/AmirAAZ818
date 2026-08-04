@@ -3,7 +3,7 @@
 </div>
   <p><em>(Pronounced: /æˈmiːɾ hoːˈsejn/</em></p>
 
-I'm a 4th year Computer Engineering Bachelor's student at *Shahid Bahonar University of Kerman*. I'm enthusiastic about deep learning and machine learning, and currently I'm exploring and focusing on advanced areas such as language models, vision-language models, reasoning in AI, and image captioning systems.
+I'm enthusiastic about deep learning and machine learning, and currently I'm exploring and focusing on advanced areas such as language models, vision-language models, reasoning in AI, and image captioning systems.
 
 
 ## 💻 Technical Skills  
