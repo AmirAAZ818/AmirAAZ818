@@ -3,7 +3,7 @@
 </div>
   <p><em>(Pronounced: /æˈmiːɾ hoːˈsejn/</em></p>
 
-I'm enthusiastic about deep learning and machine learning, and currently I'm exploring and focusing on advanced areas such as language models, vision-language models, reasoning in AI, and image captioning systems.
+I’m a computer engineering graduate who’s enthusiastic about machine learning. I enjoy testing ideas carefully and building systems that work.
 
 
 ## 💻 Technical Skills  
