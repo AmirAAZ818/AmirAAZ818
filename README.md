@@ -36,10 +36,12 @@ I’m a computer engineering graduate who’s enthusiastic about machine learnin
 
 ### Tools & Platforms  
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FF6600?style=for-the-badge&logo=wandb&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>  
+</p> 
 
 
 ## ☕ Outside of Tech
